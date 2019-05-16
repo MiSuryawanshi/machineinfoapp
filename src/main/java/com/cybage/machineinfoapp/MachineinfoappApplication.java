@@ -8,6 +8,8 @@ public class MachineinfoappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MachineinfoappApplication.class, args);
+		//System.getProperty("os.name");
+		System.out.println("Operating System "+System.getProperty("os.name"));
 	}
 
 }

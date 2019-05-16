@@ -1,0 +1,6 @@
+projectKey=machineinfoapp
+serverUrl=http://localhost:9025
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9025/dashboard/index/machineinfoapp
+ceTaskId=AWq6U-clM-3wUYEybSP8
+ceTaskUrl=http://localhost:9025/api/ce/task?id=AWq6U-clM-3wUYEybSP8
