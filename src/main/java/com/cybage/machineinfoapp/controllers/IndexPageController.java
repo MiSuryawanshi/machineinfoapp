@@ -16,4 +16,10 @@ public class IndexPageController implements ErrorController{
 	public String homepageController() {
 		return "index";
 	}
+	
+	@RequestMapping("/loginUser")
+	public String loginUser()
+	{
+		return "machineinfo";
+	}
 }

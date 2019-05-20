@@ -16,12 +16,12 @@
 <body class="login-page">
 	<div class="login-box">
         <div class="login-logo login-logo-bg">
-            <a href="../Default.aspx"><b>Machineinfo</b></a>
+            <a href="/index"><b>Machineinfo</b></a>
         </div>
         <!-- /.login-logo -->
         <div class="login-box-body">
             <p class="login-box-msg">Please Sign in</p>
-            <form method="post" action="./Login.aspx" id="ctl01">
+            <form method="post" action="./loginUser" id="ctl01">
 <div class="aspNetHidden">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
