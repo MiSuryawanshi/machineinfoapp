@@ -1,5 +1,8 @@
 package com.cybage.machineinfoapp.controllers;
 
+
+
+
 import org.springframework.boot.autoconfigure.web.ErrorController;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -22,4 +25,5 @@ public class IndexPageController implements ErrorController{
 	{
 		return "machineinfo";
 	}
+	
 }

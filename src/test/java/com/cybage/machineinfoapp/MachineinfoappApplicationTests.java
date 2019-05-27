@@ -13,4 +13,9 @@ public class MachineinfoappApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void contextLoadsEX() {
+	}
+
+
 }
